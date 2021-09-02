@@ -16,6 +16,8 @@ Table of Contents
 - Tests
 - Q&A
 - Installation
+
+
 I need to use the MySQL2 and Sequelize packages to connect your Express.js API to a MySQL database and the dotenv package to use environment variables to store sensitive data.
 
 Usage
